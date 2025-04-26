@@ -1,0 +1,22 @@
+{
+  "teachers": [
+    {
+      "username": "prof_smith",
+      "password": "hashed_password_123",
+      "name": "Mr. Smith",
+      "email": "smith@mergington.edu"
+    },
+    {
+      "username": "prof_johnson",
+      "password": "hashed_password_456",
+      "name": "Mrs. Johnson",
+      "email": "johnson@mergington.edu"
+    },
+    {
+      "username": "prof_wilson",
+      "password": "hashed_password_789",
+      "name": "Dr. Wilson",
+      "email": "wilson@mergington.edu"
+    }
+  ]
+}
